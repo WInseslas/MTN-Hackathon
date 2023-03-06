@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom: 5vh;
+  text-align: center;
+  padding: 12px;
+ }
+
+ .wrapper-class {
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.editor-class {
+  min-height: 300px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+}
+
+.radial-gradient-black {
+  background: rgb(34,34,34);
+  background: radial-gradient(circle, rgba(34,34,34,0.6432772938276874) 0%, rgba(228,228,228,0.3015405991498161) 64%, rgba(255,255,255,0.1530812153963148) 100%);
+}
+
+.radial-gradient-yellow {
+  background: rgb(255,224,0);
+  background: radial-gradient(circle, rgba(255,224,0,0.6432772938276874) 0%, rgba(255,248,185,0.22591034704897583) 64%, rgba(255,255,255,0.0634453610545781) 100%);
+}
+
+.light-shadow {
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.171);
+}
+
+.dark-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+}
+
+.dark-shadow-r {
+  box-shadow: 5px 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.dark-shadow-lg {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+}
+
+.dark-shadow-r-lg {
+  box-shadow: 5px 0 15px rgba(0, 0, 0, 0.7);
+}
+
+.text-dark-shadow {
+  text-shadow: 0 0 25px rgba(0, 0, 0, 0.692);
+}
+
+/* Text-color */
+.text-primary {
+  color: rgb(243, 64, 110);
+}
+
+.text-secondary {
+  color: rgb(0, 107, 127);
+}
+
+.text-third {
+  color: rgb(111, 169, 183);
+}
+
+.text-light {
+  color: rgb(254, 254, 254);
+}
+
+.text-dark {
+  color: rgb(10, 18, 42);
+}
+
+/* Background-color */
+.bg-primary {
+  background-color: rgb(243, 64, 110);
+}
+
+.bg-secondary {
+  background-color: rgb(0, 107, 127);
+}
+
+.bg-third {
+  background-color: rgb(111, 169, 183);
+}
+
+.bg-light {
+  background-color: rgb(254, 254, 254);
+}
+
+.bg-dark {
+  background-color: rgb(10, 18, 42);
+}
+
+/* Borders color */
+
+.border-primary {
+  border-color: rgb(243, 64, 110);
+}
+
+.border-secondary {
+  border-color: rgb(0, 107, 127);
+}
+
+.border-third {
+  border-color: rgb(111, 169, 183);
+}
+
+.border-light {
+  border-color: rgb(254, 254, 254);
+}
+
+.border-dark {
+  border-color: rgb(10, 18, 42);
+}

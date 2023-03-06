@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a7bef2d.css",
+    "main.js": "/static/js/main.3f3221b4.js",
+    "static/js/787.acc2f775.chunk.js": "/static/js/787.acc2f775.chunk.js",
+    "static/media/vid2.mp4": "/static/media/vid2.92b9520619dea66ba872.mp4",
+    "static/media/img1.png": "/static/media/img1.2058809eb506ba4eec9a.png",
+    "static/media/bg.png": "/static/media/bg.1379e9a7d8e7acac5719.png",
+    "static/media/background-3.jpg": "/static/media/background-3.aeddbcf3947573a347c5.jpg",
+    "static/media/info.png": "/static/media/info.d1b154c511854e5d2738.png",
+    "static/media/DoginTeam.png": "/static/media/DoginTeam.71fb33445d2e5cf656df.png",
+    "static/media/bg-home1.jpg": "/static/media/bg-home1.238e4b3dbc50fd3a0a93.jpg",
+    "static/media/math.webp": "/static/media/math.6643745c86c547fd7f66.webp",
+    "static/media/science1.jpg": "/static/media/science1.08112c8ae3926141afcb.jpg",
+    "static/media/anglais1.jpg": "/static/media/anglais1.95f5190583631f9e6ee2.jpg",
+    "static/media/science2.webp": "/static/media/science2.9aa54881a86fc186d849.webp",
+    "static/media/anglais2.jpg": "/static/media/anglais2.1d5ee3fcfe084e55dc47.jpg",
+    "static/media/hist1.webp": "/static/media/hist1.02ccc09597b72b2b95ac.webp",
+    "index.html": "/index.html",
+    "main.9a7bef2d.css.map": "/static/css/main.9a7bef2d.css.map",
+    "main.3f3221b4.js.map": "/static/js/main.3f3221b4.js.map",
+    "787.acc2f775.chunk.js.map": "/static/js/787.acc2f775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7bef2d.css",
+    "static/js/main.3f3221b4.js"
+  ]
+}
